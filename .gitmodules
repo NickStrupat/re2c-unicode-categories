@@ -1,0 +1,3 @@
+[submodule "unilib"]
+	path = unilib
+	url = https://github.com/ufal/unilib.git
